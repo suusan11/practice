@@ -1,0 +1,12 @@
+/*----- border -----*/
+
+/* border: width style color; */
+
+border: 1px solid coral;
+
+border: thin dotted blue;
+
+border: medium  none yellow;
+
+/* width --- px or thin, medium, thick */
+/* style --- 10styles */
