@@ -1,0 +1,48 @@
+/*----- list-style-type for ol -----*/
+
+/*  number
+1.
+2.
+3.
+  number */
+list-style-type: decimal;
+
+
+/* a two digit number
+01.
+02.
+03.
+  a two digit number */
+list-style-type: decimal-leading-zero;
+
+
+/* lower roman number
+ⅰ.
+ⅱ.
+ⅲ.
+ lower roman number */
+list-style-type: lower-roman;
+
+
+/* upper roman number
+Ⅰ.
+Ⅱ.
+Ⅲ.
+ upper roman number */
+list-style-type: upper-roman;
+
+
+/* lower alphabet
+a.
+b.
+c.
+ lower alphabet */
+list-style-type: lower-latin;
+
+
+/* upper alphabet
+A.
+B.
+C.
+ upper alphabet */
+list-style-type: upper-latin;
