@@ -1,0 +1,23 @@
+/*----- superscript character -----*/
+
+/* HTML
+      <p>30m<span class="sup-text">2</span></p>
+*/
+span.sup-text {
+  font-size: 75.5%;
+  vertical-align: top;
+  position: relative;
+  top: 0.1em;
+}
+
+/*----- subscript character -----*/
+
+/* HTML
+      <p>30m<span class="sub-text">2</span></p>
+*/
+span.sub-text {
+  font-size: 75.5%;
+  vertical-align: top;
+  position: relative;
+  top: 0.1em;
+}
